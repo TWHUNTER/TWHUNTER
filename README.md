@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## About Me
+## About Me 
 
 I'm **Yu Jhih**, but you can also call me **Keven**. I am a Software Engineering student at **INTEC (Instituto Tecnológico de Santo Domingo)** from the Dominican Republic, passionate about web application development, Artificial Intelligence, data analysis, and cybersecurity. I thrive in dynamic environments and enjoy adapting to new challenges while constantly seeking opportunities to learn and grow.
 
