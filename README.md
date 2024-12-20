@@ -96,13 +96,6 @@ I'm currently exploring and experimenting with various tools and technologies, s
 
 ---
 
-### Interests and Hobbies
-
-- 🎻 Playing the violin
-- 🏓 Former national team member in table tennis
-
----
-
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWHUNTER&show_icons=true&theme=dark)
@@ -110,12 +103,3 @@ I'm currently exploring and experimenting with various tools and technologies, s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TWHUNTER&layout=compact&theme=dark)
 
 ---
-
-### Let's Connect
-
-- 📸 [Instagram](https://www.instagram.com/keven.chen_01)
-- 💼 [LinkedIn](www.linkedin.com/in/yu-jhih-chen-yeh-a817912a9)
-- 🎮 Discord: `TWHUNTER#2826`
-- 📧 Email: [cyujhih@gmail.com](mailto:cyujhih@gmail.com)
-
-Feel free to reach out for collaborations or opportunities to connect and learn together!
